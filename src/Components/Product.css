@@ -1,0 +1,17 @@
+.Products__Wrapper{
+    display: flex;
+   
+    justify-content: space-around;
+}
+.Product__one{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Products__Container{
+    padding: 5px 95px 5px 95px;
+}
+.Products__Wrapper{
+    padding: 5px 5px 5px 5px;
+}
